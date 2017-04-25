@@ -8,7 +8,7 @@ const modalStyle = {
   },
   content: {
     position: 'relative',
-    width: 600,
+    width: 500,
     height: 'auto',
     top: 'initial',
     left: 'initial',

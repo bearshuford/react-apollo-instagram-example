@@ -11,7 +11,7 @@ import './index.css'
 
 // Paste your endpoint for the Simple API here.
 // Info: https://github.com/graphcool-examples/react-apollo-instagram-example#2-create-graphql-api-with-graphcool
-const networkInterface = createNetworkInterface({ uri: '__SIMPLE_API_ENDPOINT__' });
+const networkInterface = createNetworkInterface({ uri: 'https://api.graph.cool/simple/v1/cj1vgbp1aidak0193z3fwlylw' });
 
 const client = new ApolloClient({networkInterface})
 
