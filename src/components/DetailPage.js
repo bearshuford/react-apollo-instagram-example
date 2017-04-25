@@ -8,7 +8,7 @@ const detailModalStyle = {
   overlay: modalStyle.overlay,
   content: {
     ...modalStyle.content,
-    height: 761,
+    height: 500,
   },
 }
 

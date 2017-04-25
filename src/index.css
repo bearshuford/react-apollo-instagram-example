@@ -37,9 +37,9 @@ html {
 }
 
 .detail .image {
-  width: 600px;
-  height: 600px;
-  flex: 0 0 600px;
+  width: 420px;
+  height: 420px;
+  flex: 0 0 420px;
 }
 
 .detail .description {

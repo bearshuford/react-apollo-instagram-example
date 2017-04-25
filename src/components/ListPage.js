@@ -33,7 +33,7 @@ class ListPage extends React.Component {
     }
 
     return (
-      <div className={'w-100 flex justify-center pa6' + blurClass}>
+      <div className={'w-100 flex justify-center pa4' + blurClass}>
         <div className='w-100 flex flex-wrap' style={{maxWidth: 1150}}>
           <Link
             to='/create'
